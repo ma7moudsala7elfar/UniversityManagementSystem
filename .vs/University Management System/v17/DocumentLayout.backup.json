@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|c:\\users\\desouk\\source\\repos\\university management system\\university management system\\migrations\\20241207024743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E86E88-D115-42A3-B42E-81DFAE6F30AA}|University Management System\\University Management System.csproj|solutionrelative:university management system\\migrations\\20241207024743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "University Management System\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\UniversityContext.cs",
+              "RelativeToolTip": "University Management System\\UniversityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:27:39.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Enrollment.cs",
+              "RelativeDocumentMoniker": "University Management System\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Enrollment.cs",
+              "RelativeToolTip": "University Management System\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:27:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Program.cs",
+              "RelativeDocumentMoniker": "University Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Program.cs",
+              "RelativeToolTip": "University Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:21:11.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241207024743_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Migrations\\20241207024743_InitialCreate.cs",
+              "RelativeDocumentMoniker": "University Management System\\Migrations\\20241207024743_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Migrations\\20241207024743_InitialCreate.cs",
+              "RelativeToolTip": "University Management System\\Migrations\\20241207024743_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:47:43.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Grade.cs",
+              "RelativeDocumentMoniker": "University Management System\\Grade.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Grade.cs",
+              "RelativeToolTip": "University Management System\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:26:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Student.cs",
+              "RelativeDocumentMoniker": "University Management System\\Student.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Student.cs",
+              "RelativeToolTip": "University Management System\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:25:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Course.cs",
+              "RelativeDocumentMoniker": "University Management System\\Course.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Course.cs",
+              "RelativeToolTip": "University Management System\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:25:34.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Teacher.cs",
+              "RelativeDocumentMoniker": "University Management System\\Teacher.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Teacher.cs",
+              "RelativeToolTip": "University Management System\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:24:55.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Department.cs",
+              "RelativeDocumentMoniker": "University Management System\\Department.cs",
+              "ToolTip": "C:\\Users\\DESOUK\\source\\repos\\University Management System\\University Management System\\Department.cs",
+              "RelativeToolTip": "University Management System\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:24:13.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
